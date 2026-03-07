@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/jer27ush-del/DSA/tree/master/0029-divide-two-integers) |
 | [0258-add-digits](https://github.com/jer27ush-del/DSA/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/jer27ush-del/DSA-leetcode/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/jer27ush-del/DSA/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jer27ush-del/DSA/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/jer27ush-del/DSA-leetcode/tree/master/2427-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0997-find-the-town-judge) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/jer27ush-del/DSA-leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
