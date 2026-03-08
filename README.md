@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jer27ush-del/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/jer27ush-del/DSA/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0414-third-maximum-number](https://github.com/jer27ush-del/DSA/tree/master/0414-third-maximum-number) |
 | [0997-find-the-town-judge](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0997-find-the-town-judge) |
 | [1470-shuffle-the-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1470-shuffle-the-array) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
