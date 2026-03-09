@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jer27ush-del/DSA/tree/master/0015-3sum) |
+| [0389-find-the-difference](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jer27ush-del/DSA/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jer27ush-del/DSA/tree/master/0029-divide-two-integers) |
+| [0389-find-the-difference](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -55,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0389-find-the-difference](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/jer27ush-del/DSA/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/jer27ush-del/DSA/tree/master/0771-jewels-and-stones) |
 ## Graph Theory
 |  |
