@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0118-pascals-triangle) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
