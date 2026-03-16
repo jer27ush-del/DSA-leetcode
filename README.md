@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/jer27ush-del/DSA-leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/jer27ush-del/DSA-leetcode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/jer27ush-del/DSA/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
 | ------- |
