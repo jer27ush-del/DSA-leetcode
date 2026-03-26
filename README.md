@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/jer27ush-del/DSA-leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/jer27ush-del/DSA/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3099-harshad-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/3099-harshad-number) |
 ## Recursion
 |  |
 | ------- |
