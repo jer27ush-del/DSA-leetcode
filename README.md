@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jer27ush-del/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/jer27ush-del/DSA/tree/master/0029-divide-two-integers) |
+| [0171-excel-sheet-column-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/jer27ush-del/DSA/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0507-perfect-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/jer27ush-del/DSA/tree/master/0771-jewels-and-stones) |
 ## Graph Theory
