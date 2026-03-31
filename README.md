@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/jer27ush-del/DSA/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0509-fibonacci-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jer27ush-del/DSA/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jer27ush-del/DSA/tree/master/0029-divide-two-integers) |
+| [0342-power-of-four](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
