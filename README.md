@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jer27ush-del/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0344-reverse-string](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/jer27ush-del/DSA/tree/master/0771-jewels-and-stones) |
 ## Graph Theory
