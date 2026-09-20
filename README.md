@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/jer27ush-del/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jer27ush-del/DSA/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
@@ -232,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0383-ransom-note) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
