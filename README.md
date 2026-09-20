@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jer27ush-del/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/jer27ush-del/DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/jer27ush-del/DSA/tree/master/0258-add-digits) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jer27ush-del/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
