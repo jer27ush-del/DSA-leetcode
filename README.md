@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/jer27ush-del/DSA/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0997-find-the-town-judge) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/jer27ush-del/DSA/tree/master/0771-jewels-and-stones) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Graph Theory
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
