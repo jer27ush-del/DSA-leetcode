@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jer27ush-del/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/jer27ush-del/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0048-rotate-image) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0441-arranging-coins](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0441-arranging-coins) |
 ## Stack
