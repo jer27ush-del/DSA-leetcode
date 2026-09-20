@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0189-rotate-array) |
@@ -74,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jer27ush-del/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jer27ush-del/DSA/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
@@ -203,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
