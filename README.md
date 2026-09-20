@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0383-ransom-note](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -227,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0383-ransom-note) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
