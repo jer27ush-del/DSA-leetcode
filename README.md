@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/jer27ush-del/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0997-find-the-town-judge](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0997-find-the-town-judge) |
 | [1470-shuffle-the-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
