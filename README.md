@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/jer27ush-del/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
