@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0997-find-the-town-judge](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0441-arranging-coins](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0441-arranging-coins) |
+| [1004-max-consecutive-ones-iii](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
