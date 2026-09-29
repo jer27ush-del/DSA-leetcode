@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
