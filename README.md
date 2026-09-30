@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1470-shuffle-the-array) |
+| [1920-build-array-from-permutation](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/jer27ush-del/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
