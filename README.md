@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1470-shuffle-the-array) |
+| [1572-matrix-diagonal-sum](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/jer27ush-del/DSA-leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
