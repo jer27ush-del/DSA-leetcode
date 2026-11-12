@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0184-department-highest-salary) |
+| [0511-game-play-analysis-i](https://github.com/jer27ush-del/DSA-leetcode/tree/master/0511-game-play-analysis-i) |
 ## Greedy
 |  |
 | ------- |
